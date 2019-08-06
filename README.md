@@ -1,5 +1,4 @@
-# Machine-Learning-Python
-## Record Machine Learning Code with python
+# 记录机器学习算法 实践
 
 ### SVM（Done）
 
