@@ -8,6 +8,6 @@
 
 ### Random Tree
 
-### RNN(LSTM,GRU) （Done）
+### RNN(LSTM,GRU) （ LSTM Done， GRU to do）
 
 ### BERT
